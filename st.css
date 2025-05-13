@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik Politikası</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Gizlilik Politikası</h1>
+    </header>
+
+```
+<main>
+    <section>
+        <p>
+         Bu web sitesi, kullanıcı deneyimini geliştirmek ve istatistiksel analizler yapmak amacıyla belirli verileri toplamaktadır. Kişisel veriler, kimlik bilgileri veya kullanıcıları doğrudan tanımlayabilecek herhangi bir bilgi toplanmaz.
+        </p>
+    </section>
+</main>
+
+<footer>
+    <p>© 2025 Tüm Hakları Saklıdır.</p> 
+</footer>
+```
+
+</body>
+</html>
+
+
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+padding: 20px;
+background-color: #f4f4f4;
+}
+
+header {
+text-align: center;
+background: #1da1f2;
+color: white;
+padding: 10px;
+}
+
+main {
+background: white;
+padding: 20px;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+color: #1da1f2;
+}
+
+footer {
+text-align: center;
+margin-top: 20px;
+padding: 10px;
+background: #666666;
+color: white;
+}
